@@ -8,6 +8,8 @@ scanf("%d",&a);
 printf("Enter value of 2nd number:");
 scanf("%d",&b);
 c=a+b;
-printf("value of c is: %d" ,c);
+printf("addition is: %d" ,c);
+c=a*b;
+printf("\nMultiplication is:- %d",c);
 getch();
 }
