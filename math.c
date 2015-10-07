@@ -11,5 +11,7 @@ c=a+b;
 printf("addition is: %d" ,c);
 c=a/b;
 printf("\ndividion is:- %d",c);
+c=a*b;
+printf("\nmultiplication is:- %d",c);
 getch();
 }
