@@ -15,5 +15,6 @@ c=a*b;
 printf("\nmultiplication is:- %d",c);
 c=a-b;
 printf("\nsubtractor is:- %d",c);
+printf("\n hello world this is git hub version")
 getch();
 }
