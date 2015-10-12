@@ -13,5 +13,7 @@ c=a/b;
 printf("\ndividion is:- %d",c);
 c=a*b;
 printf("\nmultiplication is:- %d",c);
+c=a-b;
+printf("\nsubtractor is:- %d",c);
 getch();
 }
