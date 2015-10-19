@@ -21,5 +21,9 @@ printf("\n changes made in local server");
 printf("\n hello user this is done in local repository");
 printf("\n changes are done in notepad ");
 
+char str;
+printf("enter your name");
+scanf("%s",&str);
+printf(("\n",str); 
 getch();
 }
