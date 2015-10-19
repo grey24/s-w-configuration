@@ -30,6 +30,6 @@ char str1;
 printf("enter your fav subject");
 scanf("%s",&str1);
 printf("\n",str1); 
-
+ hello lpu
 getch();
 }
