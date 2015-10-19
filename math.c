@@ -24,6 +24,12 @@ printf("\n changes are done in notepad ");
 char str;
 printf("enter your name");
 scanf("%s",&str);
-printf(("\n",str); 
+printf("\n",str); 
+
+char str1;
+printf("enter your fav subject");
+scanf("%s",&str1);
+printf("\n",str1); 
+
 getch();
 }
