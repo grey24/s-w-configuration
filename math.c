@@ -15,6 +15,11 @@ c=a*b;
 printf("\nmultiplication is:- %d",c);
 c=a-b;
 printf("\nsubtractor is:- %d",c);
-printf("\n hello world this is git hub version")
+printf("\n hello user this is git hub version");
+printf("\n changes made in local server");
+
+printf("\n hello user this is done in local repository");
+printf("\n changes are done in notepad ");
+
 getch();
 }
